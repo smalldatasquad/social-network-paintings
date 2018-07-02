@@ -1,6 +1,7 @@
 # Social Network Paintings
-SFPC Code Societies Class Summer 2018 
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/snp.jpg)
+
+SFPC Code Societies Class Summer 2018 
 
 What is the self-portrait of a society?
 
