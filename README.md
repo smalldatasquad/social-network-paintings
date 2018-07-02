@@ -1,7 +1,8 @@
 # Social Network Paintings
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/snp.jpg)
 
-SFPC Code Societies Class Summer 2018 
+Taught by Dan Taeyoung and Melanie Hoff as part of the School for Poetic Computation Code Societies Class of Summer 2018 
+
 
 What is the self-portrait of a society?
 
@@ -15,8 +16,4 @@ Social Network Paintings is an exploration of the most common representations of
 We will get our hands dirty with paint and software to make and remake social networks and societies. What are the conceptual assumptions and gaps in the network-form? How can these forms be misused, reappropriated, and decontextualized to represent other modes of experience? How can painting, poetry, and performance be a model for representations of our societies? 
 
 
-## Readings
 
-
-## Further Reading
-[The Manga Guide to Databases](https://github.com/wuzhouhui/misc/blob/master/programming/db/The%20Manga%20Guide%20to%20Databases.pdf)
