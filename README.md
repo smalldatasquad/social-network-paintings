@@ -1,6 +1,6 @@
 # Social Network Paintings
 Taught by Dan Taeyoung and Melanie Hoff as part of the School for Poetic Computation Code Societies Class of Summer 2018 
-![](https://github.com/smalldatasquad/social-network-paintings/blob/master/snp.jpg)
+![](https://github.com/smalldatasquad/social-network-paintings/blob/master/society_clouds_giving_birth_to_the_network.jpg)
 
 
 **What is the self-portrait of a society?**
