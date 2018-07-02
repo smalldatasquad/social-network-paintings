@@ -1,10 +1,9 @@
 # Social Network Paintings
+Taught by Dan Taeyoung and Melanie Hoff as part of the School for Poetic Computation Code Societies Class of Summer 2018 
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/snp.jpg)
 
-Taught by Dan Taeyoung and Melanie Hoff as part of the School for Poetic Computation Code Societies Class of Summer 2018 
 
-
-What is the self-portrait of a society?
+*What is the self-portrait of a society?*
 
 On social media, you are an individual who forms relationships with other individuals. You follow, link, like, subscribe. A model of a social network understands society as a series of interconnected networks, graphs, spider webs. Individuals are circular nodes, relationships are lines or edges, and networks are portrayed as spiderwebbed linkages between nodes. With a social network, the data is the message: both a visual representation, and a database structure.
 
