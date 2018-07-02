@@ -1,5 +1,5 @@
 # Social Network Paintings
-Taught by Dan Taeyoung and Melanie Hoff as part of the [School for Poetic Computation's 2018 Summer Intensive, Code Societies](http://sfpc.io/codesocieties/)
+Taught by Dan Taeyoung and Melanie Hoff as part of the [School for Poetic Computation](http://sfpc.io/)'s 2018 summer intensive course, [Code Societies](http://sfpc.io/codesocieties/)
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/society_clouds_giving_birth_to_the_network.jpg)
 
 
