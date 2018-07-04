@@ -13,8 +13,20 @@ But is this really the case? We pay attention to what our closest friends pay at
 
 **Social Network Paintings** is an exploration of the most common representations of social networks and the ways the database as form has influenced these representations. We will get our hands dirty with paint and software to make and remake social networks and societies. What are the conceptual assumptions and gaps in the network-form? How can these forms be misused, reappropriated, and decontextualized to represent other modes of experience? How can painting, poetry, and performance be a models for representing our societies?
 
+![](https://github.com/smalldatasquad/social-network-paintings/blob/master/node_and_edge_paradigm.jpg)
+
 ## References
 - [Some Experiments in Art and Politics by Bruno Latour](https://www.e-flux.com/journal/23/67790/some-experiments-in-art-and-politics/)
 - [How Racial Data Gets 'Cleaned' in the U.S. Census by Robin Autry](https://www.theatlantic.com/technology/archive/2017/11/how-racial-data-gets-cleaned/541575/)
 - [The Wisdom and / or the Madness of Crowds by Nikki Case](https://ncase.me/crowds/)
 - [The Manga Guide to Databases by Mana Takahashi](https://github.com/wuzhouhui/misc/blob/master/programming/db/The%20Manga%20Guide%20to%20Databases.pdf)
+
+
+![](https://github.com/smalldatasquad/social-network-paintings/blob/master/self_other.jpeg)
+
+![](https://github.com/smalldatasquad/social-network-paintings/blob/master/social_transactions.png)
+
+![](https://github.com/smalldatasquad/social-network-paintings/blob/master/pollock_society.jpg)
+
+![](https://github.com/smalldatasquad/social-network-paintings/blob/master/data_donut.jpg)
+
