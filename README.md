@@ -24,9 +24,5 @@ But is this really the case? We pay attention to what our closest friends pay at
 
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/self_other.jpeg)
 
-![](https://github.com/smalldatasquad/social-network-paintings/blob/master/social_transactions.png)
-
-![](https://github.com/smalldatasquad/social-network-paintings/blob/master/pollock_society.jpg)
-
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/data_donut.jpg)
 
