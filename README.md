@@ -17,7 +17,7 @@ But is this really the case? We pay attention to what our closest friends pay at
 
 
 ## Required reading
-
+- [Fable from Groping In The Dark](https://github.com/smalldatasquad/social-network-paintings/blob/master/fable_from_Groping_In_The_Dark.pdf)
 
 ## Suggested reading
 - [The Wisdom and / or the Madness of Crowds by Nikki Case](https://ncase.me/crowds/)
