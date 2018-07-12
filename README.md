@@ -15,10 +15,16 @@ But is this really the case? We pay attention to what our closest friends pay at
 
 ![](https://github.com/smalldatasquad/social-network-paintings/blob/master/node_and_edge_paradigm.jpg)
 
-## References
-- [Some Experiments in Art and Politics by Bruno Latour](https://www.e-flux.com/journal/23/67790/some-experiments-in-art-and-politics/)
-- [How Racial Data Gets 'Cleaned' in the U.S. Census by Robin Autry](https://www.theatlantic.com/technology/archive/2017/11/how-racial-data-gets-cleaned/541575/)
+
+## Required reading
+
+
+## Suggested reading
 - [The Wisdom and / or the Madness of Crowds by Nikki Case](https://ncase.me/crowds/)
+- [Some Experiments in Art and Politics by Bruno Latour](https://www.e-flux.com/journal/23/67790/some-experiments-in-art-and-politics/)
+
+## References
+- [How Racial Data Gets 'Cleaned' in the U.S. Census by Robin Autry](https://www.theatlantic.com/technology/archive/2017/11/how-racial-data-gets-cleaned/541575/)
 - [The Manga Guide to Databases by Mana Takahashi](https://github.com/wuzhouhui/misc/blob/master/programming/db/The%20Manga%20Guide%20to%20Databases.pdf)
 
 
